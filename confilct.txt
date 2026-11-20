@@ -1,1 +1,2 @@
-user:zhangsan（B change） echo age:20
+user:zhangsan（A和B共同修改）
+echo age:20
